@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ASP.NET Core\\MVC\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC2FDE4-35CD-4131-AACE-4C392CF98B54}|Project1\\Project1.csproj|g:\\asp.net core\\mvc\\project1\\project1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC2FDE4-35CD-4131-AACE-4C392CF98B54}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\ASP.NET Core\\MVC\\Project1\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\ASP.NET Core\\MVC\\Project1\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgBAAAAAAAAAAAqwDQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T12:28:10.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
